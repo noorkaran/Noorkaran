@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [noorkaran.info](noorkaran.info)
 
-- 💬 Ask me about **React , Javascript**
+- 💬 Ask me about **Reactjs , Javascript**
 
 - 📫 How to reach me **bnoorkaran@gmail.com**
 
